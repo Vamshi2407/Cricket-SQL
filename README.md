@@ -25,23 +25,15 @@ penalty int,
 wicket_type varchar(255),
 player_dismissed varchar(255),
 other_wicket_type varchar(255),
-other_player_dismissed varchar(255),
+other_player_dismissed varchar(255)
 );
 
 
+select * 
+from Ball2Ball
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-# Cricket-SQL
-IPL Ball to Ball Data SQL Database Setup code
